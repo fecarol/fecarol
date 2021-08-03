@@ -4,8 +4,9 @@
  <p>
   <ul>
     Bacharela em Enfermagem pela UNIP 📚 <br/>
-    Amante de natureza, caminhada & aventureira na tecnologia 👩‍💻
+    Amante de natureza & caminhada <br/>
+    Aventureira na área de Tecnologia 👩‍💻
     </ul>
-__________________________________________________________________________________________________________________________________________________
-# Onde me encontrar 📌
-<div a href= "https://www.linkedin.com/in/fernanda-caroline-918302102/"> Perfil LinkedIn </a></div>
+____________________________________________________________________________________________________
+# Onde me encontrar:
+📌[! [ Emblema do Linkedin ] ("https://www.linkedin.com/in/fernanda-caroline-918302102/")
