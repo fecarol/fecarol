@@ -7,6 +7,4 @@
     Amante de natureza & caminhada <br/>
     Aventureira na área de Tecnologia 👩‍💻
     </ul>
-____________________________________________________________________________________________________ < br/>
-# Onde me encontrar < br/>
-📌 < a  href="https://www.linkedin.com/in/fernanda-caroline-918302102/"</a>
+_______________________________________________________________________________________
